@@ -91,7 +91,7 @@ export default function Home() {
               ))}
             </div>
             <p className="text-center text-gray-700 text-xs mt-8">
-              AI predictions for entertainment only. Not betting advice.
+              AI predictions for entertainment only. Not betting advice.by Amogelang Phangisa
             </p>
           </>
         )}
